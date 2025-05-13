@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jean-Marie Babatunde
-#### A Passionate Blockchain Developer and Laravel Full Stack Engineer
+#### A Passionate of AI - Blockchain Developer and Laravel Full Stack Engineer
 ![A Passionate Blockchain Developer and Laravel Full Stack Engineer](https://ourcodeworld.com/public-media/articles/articleocw-59cb5fc57ea13.png)
 
 
